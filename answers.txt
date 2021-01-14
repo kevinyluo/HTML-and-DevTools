@@ -1,3 +1,8 @@
+Repo link: https://github.com/kevinyluo/HTML-and-DevTools
+
+Github page: https://kevinyluo.github.io/HTML-and-DevTools/
+
+Passphrases:
 1) greenEggsAndHam
 2) iHateCplusplus
 3) HTMLRocks
